@@ -1,0 +1,14 @@
+C:\Senai\Fibonacci\bin\Debug\net10.0\Fibonacci.exe
+C:\Senai\Fibonacci\bin\Debug\net10.0\Fibonacci.deps.json
+C:\Senai\Fibonacci\bin\Debug\net10.0\Fibonacci.runtimeconfig.json
+C:\Senai\Fibonacci\bin\Debug\net10.0\Fibonacci.dll
+C:\Senai\Fibonacci\bin\Debug\net10.0\Fibonacci.pdb
+C:\Senai\Fibonacci\obj\Debug\net10.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Senai\Fibonacci\obj\Debug\net10.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Senai\Fibonacci\obj\Debug\net10.0\Fibonacci.AssemblyInfo.cs
+C:\Senai\Fibonacci\obj\Debug\net10.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Senai\Fibonacci\obj\Debug\net10.0\Fibonacci.dll
+C:\Senai\Fibonacci\obj\Debug\net10.0\refint\Fibonacci.dll
+C:\Senai\Fibonacci\obj\Debug\net10.0\Fibonacci.pdb
+C:\Senai\Fibonacci\obj\Debug\net10.0\Fibonacci.genruntimeconfig.cache
+C:\Senai\Fibonacci\obj\Debug\net10.0\ref\Fibonacci.dll
