@@ -1,0 +1,14 @@
+C:\Senai\Hackathon\bin\Debug\net10.0\Hackathon.exe
+C:\Senai\Hackathon\bin\Debug\net10.0\Hackathon.deps.json
+C:\Senai\Hackathon\bin\Debug\net10.0\Hackathon.runtimeconfig.json
+C:\Senai\Hackathon\bin\Debug\net10.0\Hackathon.dll
+C:\Senai\Hackathon\bin\Debug\net10.0\Hackathon.pdb
+C:\Senai\Hackathon\obj\Debug\net10.0\Hackathon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Senai\Hackathon\obj\Debug\net10.0\Hackathon.AssemblyInfoInputs.cache
+C:\Senai\Hackathon\obj\Debug\net10.0\Hackathon.AssemblyInfo.cs
+C:\Senai\Hackathon\obj\Debug\net10.0\Hackathon.csproj.CoreCompileInputs.cache
+C:\Senai\Hackathon\obj\Debug\net10.0\Hackathon.dll
+C:\Senai\Hackathon\obj\Debug\net10.0\refint\Hackathon.dll
+C:\Senai\Hackathon\obj\Debug\net10.0\Hackathon.pdb
+C:\Senai\Hackathon\obj\Debug\net10.0\Hackathon.genruntimeconfig.cache
+C:\Senai\Hackathon\obj\Debug\net10.0\ref\Hackathon.dll
