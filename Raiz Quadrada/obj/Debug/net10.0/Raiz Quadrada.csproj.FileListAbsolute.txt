@@ -1,0 +1,14 @@
+C:\Senai\Raiz Quadrada\bin\Debug\net10.0\Raiz Quadrada.exe
+C:\Senai\Raiz Quadrada\bin\Debug\net10.0\Raiz Quadrada.deps.json
+C:\Senai\Raiz Quadrada\bin\Debug\net10.0\Raiz Quadrada.runtimeconfig.json
+C:\Senai\Raiz Quadrada\bin\Debug\net10.0\Raiz Quadrada.dll
+C:\Senai\Raiz Quadrada\bin\Debug\net10.0\Raiz Quadrada.pdb
+C:\Senai\Raiz Quadrada\obj\Debug\net10.0\Raiz Quadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Senai\Raiz Quadrada\obj\Debug\net10.0\Raiz Quadrada.AssemblyInfoInputs.cache
+C:\Senai\Raiz Quadrada\obj\Debug\net10.0\Raiz Quadrada.AssemblyInfo.cs
+C:\Senai\Raiz Quadrada\obj\Debug\net10.0\Raiz Quadrada.csproj.CoreCompileInputs.cache
+C:\Senai\Raiz Quadrada\obj\Debug\net10.0\Raiz Quadrada.dll
+C:\Senai\Raiz Quadrada\obj\Debug\net10.0\refint\Raiz Quadrada.dll
+C:\Senai\Raiz Quadrada\obj\Debug\net10.0\Raiz Quadrada.pdb
+C:\Senai\Raiz Quadrada\obj\Debug\net10.0\Raiz Quadrada.genruntimeconfig.cache
+C:\Senai\Raiz Quadrada\obj\Debug\net10.0\ref\Raiz Quadrada.dll
