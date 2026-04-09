@@ -1,4 +1,6 @@
-﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
+//Desafio Heroi - Yuri Saito Mena
+
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 Console.WriteLine("Um grande Dragão Vermelho 🐉 despertou e está ameaçando o reino! Você foi o aventureiro escolhido pela guilda para \navaliar se um " +
     "herói está apto a enfrentá-lo. Para começar, adicione os dados do herói:");
