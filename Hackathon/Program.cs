@@ -1,4 +1,6 @@
-﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
+//Hackaton - Yuri Saito Mena
+
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 //Declaração de Variável
 int escolhajogador = 0; int escolhapalhaco = 0; int pontuacao = 0; int pontuacaopalhaco = 0;
