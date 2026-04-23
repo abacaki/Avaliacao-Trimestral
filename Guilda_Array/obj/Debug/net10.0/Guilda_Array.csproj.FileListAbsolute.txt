@@ -1,0 +1,14 @@
+C:\Senai\Guilda_Array\bin\Debug\net10.0\Guilda_Array.exe
+C:\Senai\Guilda_Array\bin\Debug\net10.0\Guilda_Array.deps.json
+C:\Senai\Guilda_Array\bin\Debug\net10.0\Guilda_Array.runtimeconfig.json
+C:\Senai\Guilda_Array\bin\Debug\net10.0\Guilda_Array.dll
+C:\Senai\Guilda_Array\bin\Debug\net10.0\Guilda_Array.pdb
+C:\Senai\Guilda_Array\obj\Debug\net10.0\Guilda_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Senai\Guilda_Array\obj\Debug\net10.0\Guilda_Array.AssemblyInfoInputs.cache
+C:\Senai\Guilda_Array\obj\Debug\net10.0\Guilda_Array.AssemblyInfo.cs
+C:\Senai\Guilda_Array\obj\Debug\net10.0\Guilda_Array.csproj.CoreCompileInputs.cache
+C:\Senai\Guilda_Array\obj\Debug\net10.0\Guilda_Array.dll
+C:\Senai\Guilda_Array\obj\Debug\net10.0\refint\Guilda_Array.dll
+C:\Senai\Guilda_Array\obj\Debug\net10.0\Guilda_Array.pdb
+C:\Senai\Guilda_Array\obj\Debug\net10.0\Guilda_Array.genruntimeconfig.cache
+C:\Senai\Guilda_Array\obj\Debug\net10.0\ref\Guilda_Array.dll
