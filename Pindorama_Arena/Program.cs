@@ -1,6 +1,6 @@
 ﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-Console.WriteLine("Bem vindo a Arena de Pindorama! 🏟️");
+Console.WriteLine("Folclore não se limita à história contada ao redor da fogueira. Com a subida da lua e do fechamento da mata, o que sobra é a luta pela sobrevivência. Aqui, na Pindorama Arena, os mitos com os quais você está familiarizado não se tratam apenas de personagens folclóricos, mas de predadores que competem por um pedaço de território. Não há regras, não há negociações e não há arrependimento. Você já entrou no território deles e agora só há duas opções: ou você consegue dominar o monstro ou você acaba fazendo parte da floresta.");
 Console.Write("\nDigite o nome do seu guerreiro: ");
 string nomeGuerreiro = Console.ReadLine();
 
