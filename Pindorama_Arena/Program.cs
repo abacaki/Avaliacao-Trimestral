@@ -28,6 +28,6 @@ PindoramaArena arena = new PindoramaArena();
 
 arena.RunBattle(warrior, monster);
 arena.ShowLog();
-
+arena.ExportBattleLogTxt();
 
 Console.WriteLine("\nFim da batalha!");
