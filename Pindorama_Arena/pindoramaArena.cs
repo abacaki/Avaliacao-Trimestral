@@ -141,7 +141,13 @@ class PindoramaArena
             Console.WriteLine(linha);
         }
     }
-
+    public void ExportBattleLogTxt()
+    {
+        File.WriteAllLines("BattleLog.txt", battleLog);
+        Console.WriteLine("\nLog exportado para BattleLog.txt!");
+    }
 }
+
+
 
     
